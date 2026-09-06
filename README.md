@@ -9,6 +9,6 @@
 - [BTC-Monthly](dataset/BTC-Monthly.csv)
 
 ## Report:
-- RMD File: [btc-time-series.rmd](files/files/btc-time-series.Rmd)
+- RMD File: [btc-time-series.rmd](files/btc-time-series.Rmd)
 - Report: [Bitcoin Price Model Analysis](files/Bitcoin-Price-Time-Series-Analysis.html)
 
